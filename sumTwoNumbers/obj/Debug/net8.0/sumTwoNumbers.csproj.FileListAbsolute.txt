@@ -1,0 +1,15 @@
+C:\Users\USER\workspace\myWorkspace\cs-projects\algorithms\first\sumTwoNumbers\bin\Debug\net8.0\sumTwoNumbers.exe
+C:\Users\USER\workspace\myWorkspace\cs-projects\algorithms\first\sumTwoNumbers\bin\Debug\net8.0\sumTwoNumbers.deps.json
+C:\Users\USER\workspace\myWorkspace\cs-projects\algorithms\first\sumTwoNumbers\bin\Debug\net8.0\sumTwoNumbers.runtimeconfig.json
+C:\Users\USER\workspace\myWorkspace\cs-projects\algorithms\first\sumTwoNumbers\bin\Debug\net8.0\sumTwoNumbers.dll
+C:\Users\USER\workspace\myWorkspace\cs-projects\algorithms\first\sumTwoNumbers\bin\Debug\net8.0\sumTwoNumbers.pdb
+C:\Users\USER\workspace\myWorkspace\cs-projects\algorithms\first\sumTwoNumbers\obj\Debug\net8.0\sumTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\workspace\myWorkspace\cs-projects\algorithms\first\sumTwoNumbers\obj\Debug\net8.0\sumTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\USER\workspace\myWorkspace\cs-projects\algorithms\first\sumTwoNumbers\obj\Debug\net8.0\sumTwoNumbers.AssemblyInfo.cs
+C:\Users\USER\workspace\myWorkspace\cs-projects\algorithms\first\sumTwoNumbers\obj\Debug\net8.0\sumTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\USER\workspace\myWorkspace\cs-projects\algorithms\first\sumTwoNumbers\obj\Debug\net8.0\sumTwoNumbers.sourcelink.json
+C:\Users\USER\workspace\myWorkspace\cs-projects\algorithms\first\sumTwoNumbers\obj\Debug\net8.0\sumTwoNumbers.dll
+C:\Users\USER\workspace\myWorkspace\cs-projects\algorithms\first\sumTwoNumbers\obj\Debug\net8.0\refint\sumTwoNumbers.dll
+C:\Users\USER\workspace\myWorkspace\cs-projects\algorithms\first\sumTwoNumbers\obj\Debug\net8.0\sumTwoNumbers.pdb
+C:\Users\USER\workspace\myWorkspace\cs-projects\algorithms\first\sumTwoNumbers\obj\Debug\net8.0\sumTwoNumbers.genruntimeconfig.cache
+C:\Users\USER\workspace\myWorkspace\cs-projects\algorithms\first\sumTwoNumbers\obj\Debug\net8.0\ref\sumTwoNumbers.dll
