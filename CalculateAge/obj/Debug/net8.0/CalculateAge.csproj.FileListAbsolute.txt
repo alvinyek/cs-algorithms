@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\CalculateAge\bin\Debug\net8.0\CalculateAge.exe
+C:\Users\USER\source\repos\CalculateAge\bin\Debug\net8.0\CalculateAge.deps.json
+C:\Users\USER\source\repos\CalculateAge\bin\Debug\net8.0\CalculateAge.runtimeconfig.json
+C:\Users\USER\source\repos\CalculateAge\bin\Debug\net8.0\CalculateAge.dll
+C:\Users\USER\source\repos\CalculateAge\bin\Debug\net8.0\CalculateAge.pdb
+C:\Users\USER\source\repos\CalculateAge\obj\Debug\net8.0\CalculateAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\CalculateAge\obj\Debug\net8.0\CalculateAge.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\CalculateAge\obj\Debug\net8.0\CalculateAge.AssemblyInfo.cs
+C:\Users\USER\source\repos\CalculateAge\obj\Debug\net8.0\CalculateAge.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\CalculateAge\obj\Debug\net8.0\CalculateAge.dll
+C:\Users\USER\source\repos\CalculateAge\obj\Debug\net8.0\refint\CalculateAge.dll
+C:\Users\USER\source\repos\CalculateAge\obj\Debug\net8.0\CalculateAge.pdb
+C:\Users\USER\source\repos\CalculateAge\obj\Debug\net8.0\CalculateAge.genruntimeconfig.cache
+C:\Users\USER\source\repos\CalculateAge\obj\Debug\net8.0\ref\CalculateAge.dll

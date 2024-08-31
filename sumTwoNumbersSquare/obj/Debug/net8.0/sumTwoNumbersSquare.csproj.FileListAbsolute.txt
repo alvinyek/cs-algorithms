@@ -1,0 +1,15 @@
+C:\Users\USER\workspace\myWorkspace\cs-projects\algorithms\first\sumTwoNumbersSquare\bin\Debug\net8.0\sumTwoNumbersSquare.exe
+C:\Users\USER\workspace\myWorkspace\cs-projects\algorithms\first\sumTwoNumbersSquare\bin\Debug\net8.0\sumTwoNumbersSquare.deps.json
+C:\Users\USER\workspace\myWorkspace\cs-projects\algorithms\first\sumTwoNumbersSquare\bin\Debug\net8.0\sumTwoNumbersSquare.runtimeconfig.json
+C:\Users\USER\workspace\myWorkspace\cs-projects\algorithms\first\sumTwoNumbersSquare\bin\Debug\net8.0\sumTwoNumbersSquare.dll
+C:\Users\USER\workspace\myWorkspace\cs-projects\algorithms\first\sumTwoNumbersSquare\bin\Debug\net8.0\sumTwoNumbersSquare.pdb
+C:\Users\USER\workspace\myWorkspace\cs-projects\algorithms\first\sumTwoNumbersSquare\obj\Debug\net8.0\sumTwoNumbersSquare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\workspace\myWorkspace\cs-projects\algorithms\first\sumTwoNumbersSquare\obj\Debug\net8.0\sumTwoNumbersSquare.AssemblyInfoInputs.cache
+C:\Users\USER\workspace\myWorkspace\cs-projects\algorithms\first\sumTwoNumbersSquare\obj\Debug\net8.0\sumTwoNumbersSquare.AssemblyInfo.cs
+C:\Users\USER\workspace\myWorkspace\cs-projects\algorithms\first\sumTwoNumbersSquare\obj\Debug\net8.0\sumTwoNumbersSquare.csproj.CoreCompileInputs.cache
+C:\Users\USER\workspace\myWorkspace\cs-projects\algorithms\first\sumTwoNumbersSquare\obj\Debug\net8.0\sumTwoNumbersSquare.sourcelink.json
+C:\Users\USER\workspace\myWorkspace\cs-projects\algorithms\first\sumTwoNumbersSquare\obj\Debug\net8.0\sumTwoNumbersSquare.dll
+C:\Users\USER\workspace\myWorkspace\cs-projects\algorithms\first\sumTwoNumbersSquare\obj\Debug\net8.0\refint\sumTwoNumbersSquare.dll
+C:\Users\USER\workspace\myWorkspace\cs-projects\algorithms\first\sumTwoNumbersSquare\obj\Debug\net8.0\sumTwoNumbersSquare.pdb
+C:\Users\USER\workspace\myWorkspace\cs-projects\algorithms\first\sumTwoNumbersSquare\obj\Debug\net8.0\sumTwoNumbersSquare.genruntimeconfig.cache
+C:\Users\USER\workspace\myWorkspace\cs-projects\algorithms\first\sumTwoNumbersSquare\obj\Debug\net8.0\ref\sumTwoNumbersSquare.dll
